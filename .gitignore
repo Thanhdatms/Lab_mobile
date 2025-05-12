@@ -1,0 +1,22 @@
+# Ignore Gradle caches and build outputs in any subproject
+**/.gradle/
+**/build/
+**/.externalNativeBuild/
+**/.cxx/
+**/captures/
+
+# Ignore IntelliJ/Android Studio project files in any subproject
+**/.idea/
+**/*.iml
+
+# Ignore local.properties (contains local SDK path)
+**/local.properties
+
+# macOS system file
+**/.DS_Store
+
+# Kotlin/Java compiled classes
+**/*.class
+
+**/venv
+**/__pycache__
